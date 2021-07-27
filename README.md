@@ -1,6 +1,6 @@
 # quiz_app
 
-A new Flutter project.
+A new Flutter project. It is an ongoing project, needs to be completed soon.
 
 ## Getting Started
 
